@@ -1,7 +1,6 @@
-# Rafnixg.dev
-[![pages-build-deployment](https://github.com/rafnixg/rafnixg.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/rafnixg/rafnixg.github.io/actions/workflows/pages/pages-build-deployment)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/rafnixg/rafnixg.github.io)
+# Flixromer443
+[![pages-build-deployment](https://github.com/flixromer443/gitpage/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/flixromer443/gitpage/actions/workflows/pages/pages-build-deployment)
 
-## Personal website
+## Sitio web personal
 
-This is the source code of my personal website, which is built with pure HTML, CSS and JavaScript.
+Este es el codigo funete de mi siotio web el cual esta hecho con HTML puro, CSS y JavaScript.
